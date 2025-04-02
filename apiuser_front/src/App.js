@@ -23,7 +23,7 @@ function App() {
   return (
     <>
       <Container>
-        <Router basename="/apiuserprof">
+        <Router basename="/sauber">
           <div>
             <Navbar />
             <Routes>
